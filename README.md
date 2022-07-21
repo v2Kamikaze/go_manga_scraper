@@ -1,0 +1,1 @@
+# go_manga_scraper
